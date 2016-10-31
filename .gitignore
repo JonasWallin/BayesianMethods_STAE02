@@ -2,6 +2,10 @@
 .Rhistory
 .Rapp.history
 
+# JW added
+.gitignore
+.ipynb_checkpoints/
+
 # Session Data files
 .RData
 
