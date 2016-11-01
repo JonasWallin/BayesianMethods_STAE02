@@ -14,5 +14,6 @@ Date | Time  | topic | chapters | location
 
 Links from Lecture 1:
 
-1. [Letter from Royal statistical Society regarding Sally Clark](http://www.rss.org.uk/Images/PDF/influencing-change/rss-use-statistical-evidence-court-cases-2002.pdf)
+1. More details on Sally clark case can be found at [understandinguncertainty.org](https://understandinguncertainty.org/node/545), Also worth reading [Letter from Royal statistical Society regarding Sally Clark](http://www.rss.org.uk/Images/PDF/influencing-change/rss-use-statistical-evidence-court-cases-2002.pdf)
 2. Lucia de Berk, a nurse in Holland, is another case where similar statistical misscarge occured. For detail see homepage of [Richard Gill](http://www.math.leidenuniv.nl/~gill/#lucia)	
+3. Olle Häggström går igenom [Lambertz sannolikhetskalkyl i Quickologi](http://haggstrom.blogspot.se/2015/05/quickologisk-sannolikhetskalkyl.html) 
