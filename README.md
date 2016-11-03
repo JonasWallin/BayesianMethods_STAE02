@@ -3,7 +3,9 @@ Introductory course in Bayesian statistics.
 
 #####  Literature
 Doing Bayesian data analysis, by John Kruschke
-(the book is avialbe online through Lund University)
+(the book is available online through Lund University)
+
+More advanced alternaive: [Bayesian data analysis](http://www.stat.columbia.edu/~gelman/book/) by  [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) and others (hard copy exists at the math library
 ###Course plan
 
 ##Lectures:
@@ -11,7 +13,8 @@ Doing Bayesian data analysis, by John Kruschke
 Date | Time  | topic | chapters | location| Link to pdf|
 ---|---|---|---|---|---
 | 11-01 | 10-12 | Bayes Theorem, conditional distributions | 2.1,4,5.1 | alfa1:1048 | [Lecture1](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lecture1/Lecture1.pdf)
-| 11-03 | 10-12 | review of densities | 2.1,4,5.1 | alfa1:1048
+| 11-03 | 10-12 | review of densities | 2.1,4,5.1 | alfa1:1048 |[Lecture2](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lecture2/Lecture2.pdf)
+| 11-03 | 13-15 | Introduction to R |  | alfa0:0043 |
 
 ## Links:
 
