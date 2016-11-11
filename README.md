@@ -15,6 +15,12 @@ Date | Time  | topic | chapters | location| Link to pdf|
 | 11-01 | 10-12 | Bayes Theorem, conditional distributions | 2.1,4,5.1 | alfa1:1048 | [Lecture1](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lecture1/Lecture1.pdf)
 | 11-03 | 10-12 | review of densities | 2.1,4,5.1 | alfa1:1048 |[Lecture2](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lecture2/Lecture2.pdf)
 | 11-03 | 13-15 | Introduction to R |  | alfa0:0043 |
+| 11-8 | 10-12  | priors | 5,6 | alfa1:1048 |
+| 11-10 | 10-12 | priors | 5,6 | alfa1:1048 |
+| 11-11 | 10-12 | Lab about priors | . | alfa0:0043 |
+| 15-11 | 10-12 | Normal distribution, Monte Carlo |  | alfa0:1048|
+| 17-11 | 10-12 | Markov Chain Monte Carlo, stan | 7 | alfa0:1048|
+| 17-11 | 10-12 | Lab intro Stan, MCMC | 7 | alfa0:1048|
 
 ## Links:
 
