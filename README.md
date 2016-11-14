@@ -19,8 +19,9 @@ Date | Time  | topic | chapters | location| Link to pdf|
 | 11-10 | 10-12 | priors | 5,6 | alfa1:1048 |
 | 11-11 | 10-12 | Lab about priors | . | alfa0:0043 |
 | 15-11 | 10-12 | prediction, priors, exercise session  |  | alfa0:1048|
-| 17-11 | 10-12 | multivariate Normal, Regression | 7 | alfa0:1048|
-| 17-11 | 13-15 | Lab: intro Stan, MCMC | 7 | alfa0:0043|
+| 17-11 | 10-12 | Monte Carlo, multivariate Normal, Regression |  | alfa0:1048|
+| 17-11 | 13-15 | Lab: Prediction, Monte Carlo |  | alfa0:0043|
+| 22-11 | 10-12 | Markov Chain Monte Carlo, Stan |  7 | alfa0:1048|
 
 ## Links:
 
