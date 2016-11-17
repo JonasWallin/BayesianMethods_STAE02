@@ -24,7 +24,8 @@ Date | Time  | topic | chapters | location| Link to pdf|
 | 22-11 | 10-12 | Markov Chain Monte Carlo |  7 | alfa0:1048|
 
 ## Links:
-
+Links relevant for Lecture 6:
+1. Stan documentation. There exists several intressting tutorials and videos about stan. [http://mc-stan.org/documentation/](http://mc-stan.org/documentation/)
 Links relevant for Lecture 1:
 
 1. More details on Sally clark case can be found at [understandinguncertainty.org](https://understandinguncertainty.org/node/545), Also worth reading [Letter from Royal statistical Society regarding Sally Clark](http://www.rss.org.uk/Images/PDF/influencing-change/rss-use-statistical-evidence-court-cases-2002.pdf)
