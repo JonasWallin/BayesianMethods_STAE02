@@ -17,7 +17,7 @@ Date | Time  | topic | chapters | location| Link to pdf|
 | 11-03 | 13-15 | Introduction to R |  | alfa0:0043 |
 | 11-8 | 10-12  | priors | 5,6 | alfa1:1048 |
 | 11-10 | 10-12 | priors | 5,6 | alfa1:1048 |
-| 11-11 | 10-12 | Lab about priors | . | alfa0:0043 |[Assignment 1](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab2/Assignment_1_HT16.pdf)|
+| 11-11 | 10-12 | Lab about priors | . | alfa0:0043 |[Assignment 1](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab2/Assignment_1_HT16II.pdf)|
 | 15-11 | 10-12 | prediction, priors, exercise session, Monte Carlo  |  | alfa0:1048| [Lecture5](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lecture5/Lecture5.pdf)|
 | 17-11 | 10-12 | Monte Carlo, stan, Regression | 14.3-14.4,15.-15.2,17.-17.1| alfa0:1048| [Lecture6](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lecture6/Lecture6.pdf)|
 | 17-11 | 13-15 | Lab: Prediction, stan |  | alfa0:0043|[Assignment 2](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab3/Assignment_2_HT16.pdf)|
