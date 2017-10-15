@@ -11,7 +11,7 @@ Alternative literature: [Bayesian data analysis](http://www.stat.columbia.edu/~g
 
 Date | Time  | topic | chapters | location| Link to pdf|
 ---|---|---|---|---|---
-| 11-01 | 10-12 | Bayes Theorem, conditional distributions | 2.1,4,5.1 | alfa1:1048 | [Lecture1](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lecture1/Lecture1.pdf)
+| 11-01 | 10-12 | Bayes Theorem, conditional distributions | 2.1,4,5.1 | alfa1:1048 | [Broken link](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lecture1/Lecture1.pdf)
 
 
 ## Links:
