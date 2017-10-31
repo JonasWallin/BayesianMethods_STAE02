@@ -12,8 +12,10 @@ The course will be using R. If you are not familiar with R a good tutorial is av
 * [tryr.codeschool](http://tryr.codeschool.com/) 
 * [Rintro](http://tutorials.iq.harvard.edu/R/Rintro/Rintro.html)
 
-I also put an overview of basic R commands at 
+I also put a few tutorials one the homepage:
 
+*  [Basic R commands](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/tutorialR.html)
+*  [working with statistical distribution in R](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/w1_densities.html)
 
 We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar for Rstudio is available at:
 
