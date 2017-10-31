@@ -31,7 +31,7 @@ We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar f
 
 Week   | topic | chapters | Link to pdf|
 ---|---|---|---
-| 1 | intro Bayesian reasoning, sampling, R| 2-2.4.1,3-3.3.1 |[Broken link](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/tutorialR.html)
+| 1 | intro Bayesian reasoning, sampling, R| 2-2.4.1,3-3.3.1 |[Chapter2](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week1/Chapter2.pdf) [Chapter3](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week1/Chapter3.pdf)
 |* | Lab1, Dedline: | about chap 2-3| [Broken link]()
 | 2 | Normal distribution | 2-2.4.1,3-3.3.1 |[Broken link]()
 
