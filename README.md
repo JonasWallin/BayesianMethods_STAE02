@@ -25,7 +25,7 @@ We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar f
 ##Weeks:
 
 Week   | topic | chapters | Link to pdf|
----|---|---|---|---|---
+---|---|---|---|---
 | 1 | intro Bayesian reasoning, sampling, R| 2-2.4.1,3-3.3.1 |[Broken link]()
 * | Lab1, Dedline: | about chap 2-3| [Broken link]()
 | 2 | Normal distribution | 2-2.4.1,3-3.3.1 |[Broken link]()
