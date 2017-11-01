@@ -24,6 +24,7 @@ We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar f
 
 
 ###Course plan
+The detailed time plan is given here: [schedule.doc](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/schedule.doc)
 
 
 ##Weeks:
