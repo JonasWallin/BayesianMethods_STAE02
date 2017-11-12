@@ -37,7 +37,7 @@ Week   | topic | chapters | Link to pdf|
 |* | Lab1, Dedline: Friday 10/11 at 23.59 | about chap 2-3| [lab1.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab1/lab1.pdf) [Skeleton.R](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab1/skeleton.R)
 | 2 | Normal distribution, multivariate linear regression | 4,5 |[Chapter4](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week2/Chapter4.pdf) [Chapter5](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week2/Chapter5.pdf)
 |* | Lab1, Dedline: Wednesday 22/11 at 23.59 | about chap 4-6| [lab2.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab2/lab2.pdf)  | 
-| 3 | model comparsion | 6,7|[Broken link]()
+| 3 | model comparsion | 6|[Chapter6](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week3/Chapter6.pdf)
 | 4 | Rstan, GLM | 8,9 |[Broken link]()
 | 5 | Markov Chain Monte Carlo, GLM | 8,9 |[Broken link]()
 
