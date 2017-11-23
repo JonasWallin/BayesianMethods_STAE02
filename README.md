@@ -40,8 +40,8 @@ Week   | topic | chapters | Link to pdf|
 | 2 | Normal distribution, multivariate linear regression | 4,5 |[Chapter4](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week2/Chapter4.pdf) [Chapter5](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week2/Chapter5.pdf)
 |* | Lab2, Dedline: Wednesday 22/11 at 23.59 | about: chap 4-6| [lab2.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab2/lab2.pdf)  | 
 | 3 | model comparsion | 6|[Chapter6](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week3/Chapter6.pdf)
-|* | Lab3, Dedline: Friday 8/12 at 23.59 | about: chap 7-10| [lab3.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab3/lab3.pdf)  | 
 | 4 | Rstan, Binomial | 7,9,10 | [ChapterSeveral](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week4/Chapter7910.pdf)
+|* | Lab3, Dedline: Friday 8/12 at 23.59 | about: chap 7-10| [lab3.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab3/lab3.pdf)  | 
 | 5 | Markov Chain Monte Carlo, GLM | 8,9,10 |[Broken link]()
 | 6 | GLM, mixture distribution | 11 |[Broken link]()
 | 7 | multilevel models | 12 |[Broken link]()
