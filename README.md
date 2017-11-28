@@ -17,8 +17,8 @@ I also put a few tutorials one the homepage:
 *  [Basic R commands](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/tutorialR.html)
 *  [working with statistical distribution in R](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/w1_densities.html)
 *  [Discrete vs continous random variable](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/densityVsProb.html)
-*  [RstanTutorial](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/RstanTutorial.html)
-*  [modfiyingData](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/modfiyingData.html)
+*  [RstanTutorial](http://htmlpreview.github.io/?https://raw.githubusercontent.com/JonasWallin/BayesianMethods_STAE02/master/RstanTutorial.html)
+*  [modfiyingData](http://htmlpreview.github.io/?https://raw.githubusercontent.com/JonasWallin/BayesianMethods_STAE02/master/modfiyingData.html)
 
 We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar for Rstudio is available at:
 
