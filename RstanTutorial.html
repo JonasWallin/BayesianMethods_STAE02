@@ -219,7 +219,7 @@ stan_output &lt;-stan(file = &quot;heightmodel.stan&quot;,
 <pre><code>list_param &lt;- extract(stan_output)
 log_lik    &lt;- list_param$log_lik
 lpd        &lt;- log_sum_exp(list_param$log_lik)
-p_waic     &lt;- colVars(log_lik)
+p_waic     &lt;- sum(colVars(log_lik))
 WAIC       &lt;- -2 * lpd + 2 * p_waic</code></pre>
 <p>For further details see the article <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/waic_stan.pdf">waic_stan</a>.</p>
 </div>
