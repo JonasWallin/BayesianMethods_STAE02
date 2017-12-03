@@ -16,6 +16,9 @@ I also put a few tutorials one the homepage:
 
 *  [Basic R commands](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/tutorialR.html)
 *  [working with statistical distribution in R](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/w1_densities.html)
+*  [Discrete vs continous random variable](http://htmlpreview.github.io/?https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/densityVsProb.html)
+*  [RstanTutorial](http://htmlpreview.github.io/?https://raw.githubusercontent.com/JonasWallin/BayesianMethods_STAE02/master/RstanTutorial.html)
+*  [modfiyingData](http://htmlpreview.github.io/?https://raw.githubusercontent.com/JonasWallin/BayesianMethods_STAE02/master/modfiyingData.html)
 
 We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar for Rstudio is available at:
 
@@ -34,11 +37,14 @@ Week   | topic | chapters | Link to pdf|
 ---|---|---|---
 | 1 | intro Bayesian reasoning, sampling, R| 2-2.4.1,3-3.3.1 |[introduction](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week1/introduction.pdf) [Chapter2](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week1/Chapter2.pdf) [Chapter3](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week1/Chapter3.pdf)
 |* | Lab1, Dedline: Friday 10/11 at 23.59 | about chap 2-3| [lab1.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab1/lab1.pdf) [Skeleton.R](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab1/skeleton.R)
-| 2 | Normal distribution, multivariate linear regression | 4,5 |[Chapter4](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week2/Chapter4.pdf)
-|* | Lab1, Dedline: Wednesday 22/11 at 23.59 | about chap 4-6| [lab2.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab2/lab2.pdf)  | 
-| 3 | model comparsion | 6,7|[Broken link]()
-| 4 | Rstan, GLM | 8,9 |[Broken link]()
-| 5 | Markov Chain Monte Carlo, GLM | 8,9 |[Broken link]()
+| 2 | Normal distribution, multivariate linear regression | 4,5 |[Chapter4](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week2/Chapter4.pdf) [Chapter5](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week2/Chapter5.pdf)
+|* | Lab2, Dedline: Wednesday 22/11 at 23.59 | about: chap 4-6| [lab2.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab2/lab2.pdf)  | 
+| 3 | model comparsion | 6|[Chapter6](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week3/Chapter6.pdf)
+| 4 | Rstan, Binomial | 7,9,10 | [ChapterSeveral](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week4/Chapter7910.pdf)
+|* | Lab3, Dedline: Friday 8/12 at 23.59 | about: chap 7-10| [lab3.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab3/lab3.pdf)  | 
+| 5 | Markov Chain Monte Carlo, Poisson regression | 8,10 |[Chapter810](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week5/chapter8.pdf)  |
+| 6 | GLM, mixture distribution | 11 |[Broken link]()
+| 7 | multilevel models | 12 |[Broken link]()
 
 
 ## Links:
