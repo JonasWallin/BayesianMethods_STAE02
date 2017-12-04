@@ -43,7 +43,7 @@ Week   | topic | chapters | Link to pdf|
 | 4 | Rstan, Binomial | 7,9,10 | [ChapterSeveral](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week4/Chapter7910.pdf)
 |* | Lab3, Dedline: Friday 8/12 at 23.59 | about: chap 7-10| [lab3.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab3/lab3.pdf)  | 
 | 5 | Markov Chain Monte Carlo, Poisson regression | 8,10 |[Chapter810](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week5/chapter8.pdf)  |
-| 6 | GLM, mixture distribution | 11 |[Broken link]()
+| 6 | GLM, mixture distribution | 11 |[Chapter11](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week6/chapter11.pdf) 
 | 7 | multilevel models | 12 |[Broken link]()
 
 
