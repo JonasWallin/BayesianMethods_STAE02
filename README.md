@@ -27,7 +27,8 @@ We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar f
 
 
 ###Course plan
-The detailed time plan is given here: [schedule.doc](https://github.com/JonasWallin/BayesianMethods_STAE02/raw/master/schedule.doc)
+
+The detailed time plan is given here: [schedule.doc](https://github.com/JonasWallin/BayesianMethods_STAE02/raw/master/schedule.doc).
 
 
 ##Weeks:
@@ -44,6 +45,7 @@ Week   | topic | chapters | Link to pdf|
 |* | Lab3, Dedline: Friday 8/12 at 23.59 | about: chap 7-10| [lab3.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab3/lab3.pdf)  | 
 | 5 | Markov Chain Monte Carlo, Poisson regression | 8,10 |[Chapter810](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week5/chapter8.pdf)  |
 | 6 | GLM, mixture distribution | 11 |[Chapter11](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week6/chapter11.pdf) 
+| * | Lab4, Deadline: Wednesday 10/1 23.59 | about: 11,12 |[lab4.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab4/lab4.pdf) 
 | 7 | multilevel models | 12 |[Broken link]()
 
 
