@@ -31,7 +31,7 @@ We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar f
 The detailed time plan is given here: [schedule.doc](https://github.com/JonasWallin/BayesianMethods_STAE02/raw/master/schedule.doc).
 
 
-##Weeks:
+## Weeks:
 
 
 Week   | topic | chapters | Link to pdf|
