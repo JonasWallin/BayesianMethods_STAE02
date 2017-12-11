@@ -30,6 +30,9 @@ We will be using R through [Rstudio](https://www.rstudio.com/), a good webinar f
 
 The detailed time plan is given here: [schedule.doc](https://github.com/JonasWallin/BayesianMethods_STAE02/raw/master/schedule.doc).
 
+The two last lecurtes will be computer labs are in 0043.
+
+### THE EXAM IS ON TUESDAY 08-13 in Eden 022!
 
 ## Weeks:
 
@@ -46,7 +49,10 @@ Week   | topic | chapters | Link to pdf|
 | 5 | Markov Chain Monte Carlo, Poisson regression | 8,10 |[Chapter810](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week5/chapter8.pdf)  |
 | 6 | GLM, mixture distribution | 11 |[Chapter11](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week6/chapter11.pdf) 
 | * | Lab4, Deadline: Wednesday 10/1 23.59 | about: 11,12 |[lab4.pdf](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/lab4/lab4.pdf) 
-| 7 | multilevel models | 12 |[Broken link]()
-
+| 7 | multilevel models | 12 |[Chapter12](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week7/chapter12.pdf) 
+| * | Mock exam |  * |[exam](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week7/exam_mock.pdf) [solutions](https://github.com/JonasWallin/BayesianMethods_STAE02/blob/master/week7/exam_mock_solution.pdf) 
 
 ## Links:
+The last example in the Lecture about chapter 12 is taken from the blog post
+[hierarchical loss reserving with stan](https://magesblog.com/post/2015-11-10-hierarchical-loss-reserving-with-stan/).
+
